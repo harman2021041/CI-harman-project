@@ -1,0 +1,27 @@
+CRITICAL - 2022-10-10 03:35:37 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/Home.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-10-10 03:40:50 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/Home.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-10-10 03:40:52 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/Home.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-10-10 03:53:51 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/Home.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-10-10 03:53:52 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/Home.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-10-10 03:53:54 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/Home.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-10-10 03:57:58 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/Home.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-10-10 04:02:44 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/Home.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-10-10 23:26:13 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/Home.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

@@ -1,0 +1,36 @@
+.bg{
+    background: linear-gradient(to right,rgba(159, 216, 144, 0.2), rgba(159, 217, 143, 0.2)),url("https://media.istockphoto.com/vectors/seamless-wallpaper-pattern-vector-id473423540?k=20&m=473423540&s=612x612&w=0&h=CPR5UC7Yi1y_ExbcFB8KXMrRMtgNeUvNiEcPfdMzrqQ=");
+
+background-repeat: repeat;
+
+
+}
+
+.bgnav{
+    background: rgba(183, 253, 195, 0.5);
+}
+.lgname{
+    font-size: xx-large;
+    
+}
+.modalbg{
+    background: linear-gradient(to left,rgb(243, 243, 159), rgb(141, 226, 117));
+}
+.ab{
+   
+    margin-top: 150px;
+    font-size: 25px;
+    font-weight: bold;
+    
+    text-shadow: 1px 2px 2px rgb(142, 140, 85);
+
+}
+.bg2
+{
+    background: linear-gradient(to right,rgba(240, 242, 239, 0.6), rgba(233, 236, 232, 0.6)),url("https://www.pngkey.com/png/full/114-1144519_question-mark-png-background-image-question-mark.png");
+    background-size: cover;
+}
+.bg3{
+    background-color: black;
+}
+
